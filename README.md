@@ -1,6 +1,6 @@
 # graph_dataset
 ## format
-* \*.edge: edge information file
+* edge: edge information file
 * from_node_id,to_node_id
 * node_ids are from 0 to #nodes-1
 ## directed graphs
