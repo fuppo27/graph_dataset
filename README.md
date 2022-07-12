@@ -7,6 +7,3 @@
 ### Blog (Trackback)
 * #nodes: 12,047
 * #edges: 53,315
-## undirected graphs
-## bipartite graphs
-## hypergraphs
