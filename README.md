@@ -12,5 +12,4 @@
 ### Enron (Email)
 ## undirected graphs
 ## bipartite graphs
-## signed graphs
 ## hypergraphs
