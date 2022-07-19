@@ -9,4 +9,5 @@
 * #edges: 53,315
 ## undirected graphs
 ## bipartite graphs
+## signed graphs
 ## hypergraphs
