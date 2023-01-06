@@ -13,9 +13,3 @@
 ### Blog (Trackback)
 * #nodes: 12,047
 * #edges: 53,315
-### Cosme (Follower)
-### Enron (Email)
-## undirected graphs
-## bipartite graphs
-## signed graphs
-## hypergraphs
